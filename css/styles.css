@@ -1,0 +1,26 @@
+body {
+  background-color: #F7F6F2
+}
+
+h3 {text-align: center;
+  color: #FBF3E4
+}
+
+.card-header {
+  background-color: #11324D
+}
+
+.card-body {
+  text-align: center;
+}
+
+button {
+  margin: 60px 0 20px;
+  padding: 12px 50px
+}
+
+li {
+  font-size: large;
+  font-weight: 600;
+  line-height: 190%;
+}
